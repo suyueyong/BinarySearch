@@ -10,7 +10,7 @@ namespace BinarySearchSpace
 	class BinarySearchClass
 	{
 	public:
-		int BinarySearch(int arr[], int size, int target);//Define BinarySearch Method
+		int BinarySearch(int arr[], int size, int target);//Declare BinarySearch Method
 	};
 }
 #endif
